@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- الخط الأزرق المتعرج -->
+  <path
+    d="M12 36C12 24 26 28 26 18C26 12 31 10 36 10"
+    stroke="#12343b"
+    stroke-width="5"
+    stroke-linecap="round"
+  />
+  <!-- الدائرة السفلية الزرقاء -->
+  <circle cx="12" cy="36" r="6" fill="#12343b" />
+  <!-- الدائرة العلوية البرتقالية -->
+  <circle cx="36" cy="10" r="7" fill="#f05a28" />
+</svg>
